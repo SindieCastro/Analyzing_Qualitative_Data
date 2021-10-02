@@ -8,4 +8,6 @@ The client asked for help on analyzing qualitative data. The qualitative data in
 The purpose of this project is to analyze data using RQDA. 
 
 # Steps
-1. Load RQDA library by following the steps in  
+1. Load RQDA library by following the steps in https://github.com/RQDA/RQDA
+2. Convert Microsoft Word document to a txt file (notepad)
+3. Import the txt file
