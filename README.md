@@ -11,3 +11,5 @@ The purpose of this project is to analyze data using RQDA.
 1. Load RQDA library by following the steps from https://github.com/RQDA/RQDA in RStudio
 2. Convert Microsoft Word document to a txt file (notepad)
 3. Import the txt file
+4. Read the txt file and identify the themes using under Codes
+5. 
