@@ -13,4 +13,6 @@ Although I will not share the data or findings at this time, I will share the st
 2. Convert Microsoft Word document to a txt file (notepad)
 3. Import the txt file
 4. Read the txt file and identify the themes under Codes
+5. Move the codes into Code Categories
+6. Visualize the themes using Excel by particiapnt 1, participant 2, and participant 3 (See Image 1 as an example).
 
