@@ -2,7 +2,7 @@
 Analyzed qualitative data using RQDA
 
 # Background
-The client is currently working on earning her PhD has asked for help analyzing the qualitative data for her dissertation. This project will remain confidential until her project is approved and she has graduated.  The qualitative data included 3 interviews with 9 to 10  questions each. 
+The client is currently working on earning her PhD and asked for help analyzing the qualitative data for her dissertation. This project will remain confidential until her project is approved and she has graduated.  The qualitative data included 3 interviews with 9 to 10  questions each. 
 
 # Purpose
 The purpose of this project is to analyze qualitative data using RQDA. 
