@@ -22,5 +22,9 @@ Although I will not share the data or findings at this time, I will share the st
 
 ![themes.PNG](https://github.com/SindieCastro/Analyzing_Qualitative_Data/blob/main/Images/themes.PNG?raw=true)
 
+#Findings
+Image 2 shows that there were 8 outliers or themes that were not common in all three interviews. Fifteen themes were common among all three interviews while 8 were common among two interviews. 
+
+![allthemes.PNG()
 # Summary
 The outlier or themes that are not common are the rows with only one color. The themes that are common and shared between all three participants are the rows with yellow, blue, and red. SummaryCodings() was used in the R-Console to capture the number of times each theme emerged.  
