@@ -17,4 +17,4 @@ Although I will not share the data or findings at this time, I will share the st
 6. Visualize the themes using Excel by participant 1, participant 2, and participant 3 (See Image 1 as an example).
 
 Image 1: 
-https://github.com/SindieCastro/Analyzing_Qualitative_Data/blob/main/Images/themes.PNG?raw=true
+[themes.PNG](https://github.com/SindieCastro/Analyzing_Qualitative_Data/blob/main/Images/themes.PNG?raw=true)
