@@ -23,4 +23,4 @@ Although I will not share the data or findings at this time, I will share the st
 ![themes.PNG](https://github.com/SindieCastro/Analyzing_Qualitative_Data/blob/main/Images/themes.PNG?raw=true)
 
 # Summary
-The outlier or themes that are not common are the rows with only one color. The themes that are common and shared between all three participants are the rows with yellow, blue, and red. 
+The outlier or themes that are not common are the rows with only one color. The themes that are common and shared between all three participants are the rows with yellow, blue, and red. SummaryCodings() was used in the R-Console to capture the number of times each theme emerged.  
