@@ -22,7 +22,7 @@ Although I will not share the data or findings at this time, I will share the st
 
 ![themes.PNG](https://github.com/SindieCastro/Analyzing_Qualitative_Data/blob/main/Images/themes.PNG?raw=true)
 
-#Findings
+# Findings
 Image 2 shows that there were 8 outliers or themes that were not common in all three interviews. Fifteen themes were common among all three interviews while 8 were common among two interviews. 
 
 ![all_themes.PNG](https://github.com/SindieCastro/Analyzing_Qualitative_Data/blob/main/Images/all%20themes.PNG?raw=true)
