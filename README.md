@@ -15,6 +15,11 @@ Although I will not share the data or findings at this time, I will share the st
 4. Read the txt file and identify the themes under Codes
 5. Move the codes into Code Categories
 6. Visualize the themes using Excel by participant 1, participant 2, and participant 3 (See Image 1 as an example).
+7. Export the codes/themes as HTML
+8. Cut and Paste the themes as well as the quotes from the interview that pertain to each theme using a table  in Microsoft Word Document
 
-Image 1: 
+**Image 1: Question One Themes**
+
 ![themes.PNG](https://github.com/SindieCastro/Analyzing_Qualitative_Data/blob/main/Images/themes.PNG?raw=true)
+
+# Summary
