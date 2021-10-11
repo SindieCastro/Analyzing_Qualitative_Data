@@ -2,7 +2,7 @@
 Analyzed qualitative data using RQDA
 
 # Background
-The client is currently working on earning her Doctorate and has asked for help on analyzing the qualitative data for her final project. The data for this project will remain confidential until her project is approved and she has graduated.  The qualitative data included 3 interviews with 10 questions each. 
+The client is currently working on earning her PhD has asked for help analyzing the qualitative data for her dissertation. This project will remain confidential until her project is approved and she has graduated.  The qualitative data included 3 interviews with 9 to 10  questions each. 
 
 # Purpose
 The purpose of this project is to analyze qualitative data using RQDA. 
@@ -23,3 +23,4 @@ Although I will not share the data or findings at this time, I will share the st
 ![themes.PNG](https://github.com/SindieCastro/Analyzing_Qualitative_Data/blob/main/Images/themes.PNG?raw=true)
 
 # Summary
+The outlier or themes that are not common are the rows with only one color. The themes that are common and shared between all three participants are the rows with yellow, blue, and red. 
